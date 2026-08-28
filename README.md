@@ -1,0 +1,1 @@
+Download the Titanic `train.csv` file from https://www.kaggle.com/competitions/titanic and place it in this folder before running the notebook.

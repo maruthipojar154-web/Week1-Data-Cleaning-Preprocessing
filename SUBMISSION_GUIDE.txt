@@ -1,0 +1,23 @@
+GITHUB SUBMISSION GUIDE
+
+1. Create a GitHub repository named:
+   Week1-Data-Cleaning-Preprocessing
+
+2. Upload all files and folders from this project.
+
+3. Keep the repository Public so the evaluator can open it.
+
+4. Copy your repository URL, for example:
+   https://github.com/YOUR_USERNAME/Week1-Data-Cleaning-Preprocessing
+
+5. Paste that URL into the internship form's GitHub Project URL field.
+
+6. Upload the accompanying Word report in the Report File field.
+
+7. Paste the 200+ word description provided with the report submission.
+
+IMPORTANT:
+Before running the notebook, download train.csv from:
+https://www.kaggle.com/competitions/titanic
+and place it at:
+data/train.csv
